@@ -1,4 +1,4 @@
-# Commission-Bot
+# JVG-Design-Bot
 
 https://user-images.githubusercontent.com/65062119/196518842-9ebf0494-95f0-49e1-a2d5-8d7700c5a369.mp4
 
